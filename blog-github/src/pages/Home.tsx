@@ -1,4 +1,3 @@
-// src/pages/Home.tsx
 import { useEffect, useState } from "react";
 import { api } from "../services/api";
 import { GitHubUser } from "../types/github";
